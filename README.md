@@ -2,6 +2,7 @@
 Please run this PageReplacement project in C++.
 
 # Overview
+This C++ program implements different page replacement algorithms in order to analyze their performance concerning the number of page faults.
 
 # Functionality
 
