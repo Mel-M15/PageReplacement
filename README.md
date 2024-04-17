@@ -5,6 +5,10 @@ Please run this PageReplacement project in C++.
 This C++ program implements different page replacement algorithms in order to analyze their performance concerning the number of page faults.
 
 # Functionality
+The page replacement algorithm has the following functionality:
+1.
+
+
 
 # Instructions for Execution
 1. Run this program in C++.
