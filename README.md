@@ -6,7 +6,7 @@ This C++ program implements different page replacement algorithms in order to an
 
 # Functionality
 The page replacement algorithm has the following functionality:
-1.
+1. kljj
 
 
 
